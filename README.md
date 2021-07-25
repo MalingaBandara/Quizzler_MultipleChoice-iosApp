@@ -1,1 +1,1 @@
-# -Quizzler_MultipleChoice-iosApp
+# Quizzler_MultipleChoice-iosApp
